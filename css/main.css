@@ -72,3 +72,7 @@ line-height: 16px;
 .right__text-alone {
   width: 135px;
 }
+.footer__input {
+  width: 100%;
+  outline: none !important;
+}
